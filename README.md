@@ -1,1 +1,1 @@
-"Inherirtance" 
+Inheritance completion activity
